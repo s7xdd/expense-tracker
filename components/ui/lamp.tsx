@@ -18,7 +18,7 @@ export const LampContainer = ({
         className
       )}
     >
-      <div className="mt-3">
+      <div className="mt-3 z-50">
         <Header/>
       </div>
       <div className="relative flex w-full flex-1 scale-y-125 items-center justify-center isolate z-0 ">
